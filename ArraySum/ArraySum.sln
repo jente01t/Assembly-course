@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArraySum", "ArraySum\ArraySum.vcxproj", "{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Debug|x64.ActiveCfg = Debug|x64
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Debug|x64.Build.0 = Debug|x64
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Debug|x86.Build.0 = Debug|Win32
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Release|x64.ActiveCfg = Release|x64
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Release|x64.Build.0 = Release|x64
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Release|x86.ActiveCfg = Release|Win32
+		{A6389F37-C0B6-4775-B113-B0C0BC3BDBBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0215B828-ACA2-481F-8AE6-A97A7020AAC8}
+	EndGlobalSection
+EndGlobal
