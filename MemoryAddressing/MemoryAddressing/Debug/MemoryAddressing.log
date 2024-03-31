@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\memoryaddressing\debug\memoryaddressing.exe' is denied.
+  Assembling MemoryAdressingDemo.asm...
+  MemoryAddressing.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Jente\Desktop\School\iTalent\wat wil ik\Assembly-course\MemoryAddressing\Debug\MemoryAddressing.exe'
