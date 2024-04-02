@@ -1,0 +1,4 @@
+﻿  CalcArrayCube.cpp
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\calcarraycube\calcarraycube\calcarraycube.cpp(23): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\calcarraycube\calcarraycube\calcarraycube.cpp(23): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  CalcArrayCube.vcxproj -> C:\Users\Jente\Desktop\School\iTalent\wat wil ik\Assembly-course\CalcArrayCube\Debug\CalcArrayCube.exe
