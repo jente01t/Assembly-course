@@ -1,0 +1,6 @@
+﻿  Assembling Mmx_Addition.asm...
+  MmxAddition.cpp
+  MmxVal.cpp
+  Generating Code...
+MmxAddition.obj : error LNK2019: unresolved external symbol _MmxAdd referenced in function "void __cdecl MmxAddByte(void)" (?MmxAddByte@@YAXXZ)
+C:\Users\Jente\Desktop\School\iTalent\wat wil ik\Assembly-course\MmxAddition\Debug\MmxAddition.exe : fatal error LNK1120: 1 unresolved externals
