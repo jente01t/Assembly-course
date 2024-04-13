@@ -1,0 +1,54 @@
+﻿  SSEPackedIntegerArithemtic.cpp
+  XmmVal.cpp
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(4): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(5): error C2065: 'i8': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(5): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(5): note: placeholders and their parameters expect 8 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(5): note: the missing variadic argument 1 is required by format string '%4d'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(9): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(10): error C2065: 'i16': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(10): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(10): note: placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(10): note: the missing variadic argument 1 is required by format string '%8d'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(14): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(15): error C2065: 'i32': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(15): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(15): note: placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(15): note: the missing variadic argument 1 is required by format string '%12d'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(19): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(20): error C2065: 'i64': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(24): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(25): error C2065: 'u8': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(25): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(25): note: placeholders and their parameters expect 8 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(25): note: the missing variadic argument 1 is required by format string '%4u'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(29): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(30): error C2065: 'u16': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(30): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(30): note: placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(30): note: the missing variadic argument 1 is required by format string '%8u'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(34): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(35): error C2065: 'u32': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(35): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(35): note: placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(35): note: the missing variadic argument 1 is required by format string '%12u'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(39): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(40): error C2065: 'u64': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(44): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(45): error C2065: 'u8': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(45): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(45): note: placeholders and their parameters expect 8 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(45): note: the missing variadic argument 1 is required by format string '%02X'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(49): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(50): error C2065: 'u16': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(50): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(50): note: placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(50): note: the missing variadic argument 1 is required by format string '%04X'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(54): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(55): error C2065: 'u32': undeclared identifier
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(55): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(55): note: placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(55): note: the missing variadic argument 1 is required by format string '%08X'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(59): error C2653: 'MmxVal': is not a class or namespace name
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssepackedintegerarithemtic\ssepackedintegerarithemtic\xmmval.cpp(60): error C2065: 'u64': undeclared identifier
+  Generating Code...
