@@ -1,0 +1,4 @@
+﻿  Assembling Arithemtic.asm...
+  SSEfpArithemtic.cpp
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\ssefparithemtic\ssefparithemtic\ssefparithemtic.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SSEfpArithemtic.vcxproj -> C:\Users\Jente\Desktop\School\iTalent\wat wil ik\Assembly-course\SSEfpArithemtic\Debug\SSEfpArithemtic.exe
