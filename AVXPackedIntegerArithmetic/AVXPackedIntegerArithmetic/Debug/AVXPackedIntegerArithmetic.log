@@ -1,0 +1,9 @@
+﻿  Assembling AVXPackedIntArith.asm...
+  AVXPackedIntegerArithmetic.cpp
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\avxpackedintegerarithmetic\avxpackedintegerarithmetic\avxpackedintegerarithmetic.cpp(29): warning C4305: '=': truncation from 'int' to 'Int16'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\avxpackedintegerarithmetic\avxpackedintegerarithmetic\avxpackedintegerarithmetic.cpp(29): warning C4309: '=': truncation of constant value
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\avxpackedintegerarithmetic\avxpackedintegerarithmetic\avxpackedintegerarithmetic.cpp(37): warning C4305: '=': truncation from 'int' to 'Int16'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\avxpackedintegerarithmetic\avxpackedintegerarithmetic\avxpackedintegerarithmetic.cpp(37): warning C4309: '=': truncation of constant value
+  YmmVal.cpp
+  Generating Code...
+  AVXPackedIntegerArithmetic.vcxproj -> C:\Users\Jente\Desktop\School\iTalent\wat wil ik\Assembly-course\AVXPackedIntegerArithmetic\Debug\AVXPackedIntegerArithmetic.exe
