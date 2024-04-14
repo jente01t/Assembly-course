@@ -1,0 +1,4 @@
+﻿  AVXFloatingPointArithmetic.cpp
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\avxfloatingpointarithmetic\avxfloatingpointarithmetic\avxfloatingpointarithmetic.cpp(19): warning C4477: 'printf' : format string '%.6ld' requires an argument of type 'long', but variadic argument 1 has type 'double'
+c:\users\jente\desktop\school\italent\wat wil ik\assembly-course\avxfloatingpointarithmetic\avxfloatingpointarithmetic\avxfloatingpointarithmetic.cpp(20): warning C4477: 'printf' : format string '%.6ld' requires an argument of type 'long', but variadic argument 1 has type 'double'
+  AVXFloatingPointArithmetic.vcxproj -> C:\Users\Jente\Desktop\School\iTalent\wat wil ik\Assembly-course\AVXFloatingPointArithmetic\Debug\AVXFloatingPointArithmetic.exe
